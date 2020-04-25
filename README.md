@@ -4,6 +4,13 @@ Due May 2nd, 2020
 ##Build a front-end webpage that will ask for username and password after the user clicks submit (Hint: Give the button the name submit)
 ## Add this PHP script to the top of your webpage and try logging in!
 
+#Forking this repo
+## Step 1 - Fork Repository
+## Step 2 - Clone your forked repository to you computer
+## Add your index.php file to your repository. Make sure you are committing your changes as you work.
+## When you are done, push your local changes back to GitHub.
+## Create an issue in this repository and paste the link to your forked repository an issue to this original repository.
+
 ```
 
 <?php
