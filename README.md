@@ -1,7 +1,7 @@
 # PHP Homework Assignment 1
 
-## Build a front-end webpage that will ask for username and password after the user clicks submit (Hint: Give the button the name submit.)
-## Add this PHP script to the top of your webpage and try logging in!
+Build a front-end webpage that will ask for username and password after the user clicks submit (Hint: Give the button the name submit.)
+Add this PHP script to the top of your webpage and try logging in!
 
 # How to submit our assignment:
 
