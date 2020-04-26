@@ -9,7 +9,7 @@ Add this PHP script to the top of your webpage and try logging in!
 2. Step 2 - Clone your forked repository to you computer
 3. Step 3 - Add your index.php file to your repository. Make sure you are committing your changes as you work.
 4. Step 4 - When you are done, push your local changes back to GitHub.
-5. Step 5 - Create an issue in this repository and paste the link to your forked repository an issue to this original repository.
+5. Step 5 - Create an issue in this repository and paste the link to your forked repository as an issue to this original repository.
 
 ``` php
 
