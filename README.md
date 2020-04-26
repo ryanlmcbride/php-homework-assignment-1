@@ -1,7 +1,6 @@
 # PHP Homework Assignment 1
-Due May 2nd, 2020
 
-##Build a front-end webpage that will ask for username and password after the user clicks submit (Hint: Give the button the name submit)
+## Build a front-end webpage that will ask for username and password after the user clicks submit (Hint: Give the button the name submit.)
 ## Add this PHP script to the top of your webpage and try logging in!
 
 # How to submit our assignment:
@@ -17,6 +16,8 @@ Due May 2nd, 2020
 <?php
 include "db.php";
 
+//This is your process login script!
+
 if(isset($_POST['submit'])){
 
     $uname = mysqli_real_escape_string($conn,$_POST['txt_uname']);
@@ -29,7 +30,7 @@ if(isset($_POST['submit'])){
         if($count > 0){
             $_SESSION['uname'] = $row['uname'];
             header('Location: home.php');
-        }else{
+        }else {
             echo "Invalid username and password";
         }
 
@@ -48,3 +49,6 @@ last_name VARCHAR(25) NOT NULL
 
 );
 ```
+
+# You are done! Now relax...
+![Bilby Stampede](https://media.giphy.com/media/5CGHc2q51s3AI/source.gif)
