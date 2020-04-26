@@ -3,7 +3,7 @@
 Build a front-end webpage that will ask for username and password after the user clicks submit (Hint: Give the button the name submit.)
 Add this PHP script to the top of your webpage and try logging in!
 
-# How to submit our assignment:
+# How to submit your assignment:
 
 1. Fork this repository (Click the fork icon next to this repository's name)
 2. Step 2 - Clone your forked repository to you computer
