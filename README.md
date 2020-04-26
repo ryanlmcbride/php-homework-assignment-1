@@ -5,11 +5,11 @@ Add this PHP script to the top of your webpage and try logging in!
 
 # How to submit our assignment:
 
-## Step 1 - Fork this repository (Click the fork icon next to this repository's name)
-## Step 2 - Clone your forked repository to you computer
-## Step 3 - Add your index.php file to your repository. Make sure you are committing your changes as you work.
-## Step 4 - When you are done, push your local changes back to GitHub.
-## Step 5 - Create an issue in this repository and paste the link to your forked repository an issue to this original repository.
+1. Fork this repository (Click the fork icon next to this repository's name)
+2. Step 2 - Clone your forked repository to you computer
+3. Step 3 - Add your index.php file to your repository. Make sure you are committing your changes as you work.
+4. Step 4 - When you are done, push your local changes back to GitHub.
+5. Step 5 - Create an issue in this repository and paste the link to your forked repository an issue to this original repository.
 
 ``` php
 
