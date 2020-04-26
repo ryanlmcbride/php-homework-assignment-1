@@ -1,4 +1,4 @@
-# PHP Homework Assignmetn #1
+# PHP Homework Assignment 1
 Due May 2nd, 2020
 
 ##Build a front-end webpage that will ask for username and password after the user clicks submit (Hint: Give the button the name submit)
@@ -34,4 +34,17 @@ if(isset($_POST['submit'])){
         }
 
 
-}``
+}
+```
+
+## Hint: SQL Script you will need to create the 'users' database table:
+```
+CREATE TABLE users 
+(
+user_id INT PRIMARY KEY auto_increment,
+username VARCHAR(25) NOT NULL,
+first_name VARCHAR(25) NOT NULL,
+last_name VARCHAR(25) NOT NULL
+
+);
+```
