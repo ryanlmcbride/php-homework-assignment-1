@@ -1,4 +1,4 @@
-# php-homework-assignment-1
+# PHP Homework Assignmetn #1
 Due May 2nd, 2020
 
 ##Build a front-end webpage that will ask for username and password after the user clicks submit (Hint: Give the button the name submit)
