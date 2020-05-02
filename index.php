@@ -46,7 +46,7 @@ if(isset($_GET['submit'])){
         </div>
           <div class="form-group">
             <div class="col-sm-offset-4 col-sm-10">
-               <button type="button" name="submit" class="btn btn-primary">Login</button>
+               <button type="submit" name="submit" class="btn btn-primary">Login</button>
             </div>
           </div>
       </form>

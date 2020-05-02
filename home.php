@@ -1,5 +1,5 @@
 <?php
-   include('session.php');
+   include('db.php');
 ?>
 <html>
 
@@ -8,7 +8,7 @@
    </head>
 
    <body>
-      <h1>Welcome></h1>
+      <h1>Welcome</h1>
    </body>
 
 </html>
